@@ -24,7 +24,7 @@
         "pinscompat.cpp",
         "pinscompat.ts",
         "input.ts",
-        "compass.ts"
+        "compass.ts",
         "camera.ts",
         "input.cpp"
     ],
